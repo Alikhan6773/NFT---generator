@@ -1,0 +1,19 @@
+{
+    "forbidden": [
+        {
+            "trait": "Eye & Glass.Bloody Eye",
+            "with": "Mouth & Beard.Cigarettes"
+        }
+    ],
+
+    "required": [
+        {
+            "trait": "Clothe.Doctor",
+            "with": "Hat & Hair.Army"
+        },
+        {
+            "trait": "Body.Galactic",
+            "with": "Eye & Glass.Cyber Eye"
+        }
+    ]
+}

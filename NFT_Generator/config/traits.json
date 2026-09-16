@@ -1,0 +1,21 @@
+{
+    "Background": {
+        "mode": "percentage",
+        "traits": {
+            "Purple": 40,
+            "Pink Red": 30
+        }
+    },
+
+    "Clothe": {
+        "mode": "count",
+        "traits": {
+            "Doctor": 5,
+            "Fireman kit": 20
+        }
+    },
+
+    "Body": {
+        "mode": "auto"
+    }
+}
